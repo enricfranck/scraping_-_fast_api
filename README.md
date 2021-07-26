@@ -1,5 +1,5 @@
 # scraping_-_fast_api
-étable de lancement:
+étape de lancement:
   1) Ouvrir le projet avec l'IDE (ex: Pycharm, visual code...)
   2) Ouvrir le terminal et lancer les commandes suivantes (sous windows):
       a) .\venv\scripts\activate
